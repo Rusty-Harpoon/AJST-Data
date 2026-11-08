@@ -2,28 +2,12 @@
 # 由 .github/workflows/audit-snapshot.yml 每日生成；本地重建：
 #   python3 tools/audit_queue.py --emit-snapshot
 # 契约与读取规则见 audit/README.md
-# snapshot_at=2026-11-08T07:24:15Z
+# snapshot_at=2026-11-08T15:49:56Z
 # healthy=true
-# repo=Cooper-J2000/AJST-Data
-# open_sources=16
+# repo=Rusty-Harpoon/AJST-Data
+# open_sources=0
 # reviewed=820/2795
 # reserved=93
 # 状态：claimed=open draft PR；in-review=open 正式 PR；stale-*=超过 TTL 未更新（可接手）
 # 只列"仓库文件里看不到"的占用状态；reviewed 见各 info/*.json，free 即未列出者
 source_id	state	holder	since	updated	pr
-AT2019kyw	in-review	wa1kmoon	2026-11-05	2026-11-08	#922
-GRB000926A	in-review	wa1kmoon	2026-11-05	2026-11-08	#918
-GRB030528A	claimed	syfu95	2026-11-08	2026-11-08	#1000
-GRB040624	in-review	wa1kmoon	2026-11-05	2026-11-08	#914
-GRB051117B	in-review	wa1kmoon	2026-11-05	2026-11-08	#916
-GRB060923A	in-review	wa1kmoon	2026-11-05	2026-11-08	#913
-GRB091111	in-review	wa1kmoon	2026-11-05	2026-11-08	#911
-GRB130816B	claimed	syfu95	2026-11-08	2026-11-08	#998
-GRB140710A	claimed	syfu95	2026-11-08	2026-11-08	#999
-GRB141229A	in-review	wa1kmoon	2026-11-05	2026-11-08	#915
-GRB171020A	in-review	wa1kmoon	2026-11-05	2026-11-08	#919
-GRB231210B	in-review	Rusty-Harpoon	2026-11-05	2026-11-08	#937
-GRB240218A	claimed	syfu95	2026-11-07	2026-11-08	#982
-GRB241001A	in-review	wa1kmoon	2026-11-05	2026-11-08	#912
-GRB250823A	claimed	wa1kmoon	2026-11-07	2026-11-07	#979
-SN2005ek	in-review	wa1kmoon	2026-11-05	2026-11-08	#920
